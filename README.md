@@ -46,7 +46,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Status:** Completed ✅ 
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
@@ -58,9 +58,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 🚀 Get comfortable using Git and GitHub also get familiar with Version Control and using The Terminal.
+- 🎨 Learn HTML, CSS, and JavaScript and create amazing projects.
+- 💡 Build real-world projects, collaborate with the other students and make great connections.
 
 ---
 
