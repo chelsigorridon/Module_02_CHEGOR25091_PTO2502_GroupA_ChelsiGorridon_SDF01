@@ -32,10 +32,10 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🤝 Analytical Thinking
+- 📢 Clear Communication Skills
+- 🎯 Creative Problem Solving
+- 🚀 Active Listener
 
 ---
 
